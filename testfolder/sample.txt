@@ -15,3 +15,9 @@ Any change which happens to the file external to my system will cause the Github
 to manually refresh by clicking Fetch origin.
 
 Once satisfied with the changes, you can save the file.
+
+Now commit the changes to the master branch.
+
+Once you click push origin, it will push the changes to the Github servers and your code is updated in the network.
+
+I or anybody else can download your changes.
