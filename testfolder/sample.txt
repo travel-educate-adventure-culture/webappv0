@@ -1,0 +1,17 @@
+I am creating a sample file here. 
+
+All website folders can be pasted in /Github/webappv0 directory.
+
+Any changes made to the files in /Github directory will be visible on the Github desktop directory. 
+
+These changes will all go to the master branch as that is the current setting. 
+
+A new branch can be created at any point, for a particular feature of the web application. This can later be merged into the master branch. 
+(Currently let's not focus on that)
+
+Just get comfortable using this tool.
+
+Any change which happens to the file external to my system will cause the Github tool to refresh the changes automatically or you can choose 
+to manually refresh by clicking Fetch origin.
+
+Once satisfied with the changes, you can save the file.
