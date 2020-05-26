@@ -21,3 +21,6 @@ Now commit the changes to the master branch.
 Once you click push origin, it will push the changes to the Github servers and your code is updated in the network.
 
 I or anybody else can download your changes.
+
+NOTE : In the future, before you start editing the files in /Github, always click on Fetch origin, so that it downloads changes which other users 
+make to the code. You will be able to see what the changes are and you can pull them/download them to your local.
